@@ -1,0 +1,13 @@
+{
+  "name": "github-xihi",
+  "version": "0.0.1",
+  "description": "",
+  "license": "ISC",
+  "author": "meishu",
+  "main": "index.js",
+  "dependencies": {
+    "diff": "^3.2.0",
+    "github": "^9.2.0",
+    "jsonwebtoken": "^7.3.0"
+  }
+}
